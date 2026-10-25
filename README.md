@@ -16,13 +16,10 @@ Developed as an academic and embedded systems project at **Visvesvaraya National
 
 **Department of Electronics and Communication Engineering**  
 **Visvesvaraya National Institute of Technology (VNIT), Nagpur**
-
-| Name | Enrollment Number | Role |
-| :--- | :--- | :--- |
-| **Aditya Kinjawadekar** | BT23ECE064 | Emulation Core & Memory Optimization |
-| **Vinay Shelke** | BT23ECE065 | Hardware Interfacing & System Integration |
-| **Siddhant Jinturkar** | BT23ECE066 | Display Pipeline, SPI DMA & Controls |
-| **Akshat Shevde** | BT23ECE067 | SD Card VFS & File Management |
+ 
+ 
+| **Vinay Shelke** | BT23ECE065  
+ 
 
 ---
 
