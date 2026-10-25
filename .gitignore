@@ -1,0 +1,23 @@
+# Operating System files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+
+# Editor & IDE artifacts
+.vscode/
+.idea/
+*.swp
+*~
+
+# Arduino / ESP-IDF build outputs (if built locally)
+build/
+*.bin
+*.elf
+*.hex
+*.o
+*.d
+
+# Keep ROM files out of public git repositories if users put them in the root
+*.nes
